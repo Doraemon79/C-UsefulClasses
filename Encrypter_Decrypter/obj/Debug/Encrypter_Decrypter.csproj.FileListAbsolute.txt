@@ -1,0 +1,15 @@
+C:\Repos\C-UsefulClasses\Encrypter_Decrypter\bin\Debug\Encrypter_Decrypter.exe.config
+C:\Repos\C-UsefulClasses\Encrypter_Decrypter\bin\Debug\Encrypter_Decrypter.exe
+C:\Repos\C-UsefulClasses\Encrypter_Decrypter\bin\Debug\Encrypter_Decrypter.pdb
+C:\Repos\C-UsefulClasses\Encrypter_Decrypter\obj\Debug\Encrypter_Decrypter.csprojAssemblyReference.cache
+C:\Repos\C-UsefulClasses\Encrypter_Decrypter\obj\Debug\MainWindow.g.cs
+C:\Repos\C-UsefulClasses\Encrypter_Decrypter\obj\Debug\App.g.cs
+C:\Repos\C-UsefulClasses\Encrypter_Decrypter\obj\Debug\Encrypter_Decrypter_MarkupCompile.cache
+C:\Repos\C-UsefulClasses\Encrypter_Decrypter\obj\Debug\Encrypter_Decrypter_MarkupCompile.lref
+C:\Repos\C-UsefulClasses\Encrypter_Decrypter\obj\Debug\MainWindow.baml
+C:\Repos\C-UsefulClasses\Encrypter_Decrypter\obj\Debug\Encrypter_Decrypter.g.resources
+C:\Repos\C-UsefulClasses\Encrypter_Decrypter\obj\Debug\Encrypter_Decrypter.Properties.Resources.resources
+C:\Repos\C-UsefulClasses\Encrypter_Decrypter\obj\Debug\Encrypter_Decrypter.csproj.GenerateResource.cache
+C:\Repos\C-UsefulClasses\Encrypter_Decrypter\obj\Debug\Encrypter_Decrypter.exe
+C:\Repos\C-UsefulClasses\Encrypter_Decrypter\obj\Debug\Encrypter_Decrypter.pdb
+C:\Repos\C-UsefulClasses\Encrypter_Decrypter\obj\Debug\Encrypter_Decrypter.csproj.CoreCompileInputs.cache

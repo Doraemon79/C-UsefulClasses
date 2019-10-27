@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 /// <summary>
 /// Class to encrypt and decrypt at 256 bit with a random entropy based salt
 /// it uses 3 encryption keys
-/// Straight out of MS Manual with minor modif
+/// Straight out of  manual with minor modif
 /// 
 /// Copyright by I.Leotta
 /// </summary>
